@@ -12,10 +12,10 @@ Features:
 Demo Link: https://plantdr.tiiny.site/
 
 Technologies Used: 
-• Python
-• Flask Web Framework
-• Machine Learning Image Classification (CNN Model)
-• HTML and CSS for Frontend
+  • Python
+  • Flask Web Framework
+  • Machine Learning Image Classification (CNN Model)
+  • HTML and CSS for Frontend
 
 How to Run the Project:
 1. Download or Clone the repository on your computer
