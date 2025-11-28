@@ -3,7 +3,7 @@ Plant Disease Detection
 About the Project: 
 Plant Disease Detection is a Machine Learning based web application designed to identify plant leaf diseases using image classification. The user uploads a leaf image, and the system predicts whether the leaf is healthy or affected and displays the disease name along with basic prevention details. This helps in early detection and supports farmers and agriculture students in improving crop health.
 
-Features: 
+Features:
 • Upload plant leaf image
 • Instant prediction results
 • Simple and user-friendly interface
