@@ -39,7 +39,9 @@ Images include multiple plant species with healthy and diseased leaf categories.
 - Add more plant species and disease categories  
 - Deploy the application online for public use  
 - Improve model accuracy with larger dataset  
-
 ## Contributing
 Contributions, suggestions, and improvements are welcome.  
 If you would like to contribute, feel free to fork this repository and submit a pull request.
+
+## Contributors
+- **Varshita Munaganuri** – [LinkedIn](https://www.linkedin.com/in/varshita-munaganuri)
